@@ -1,6 +1,6 @@
 # github-test-repo
 github test repo
 
-Helo, GitHub!
+Hello, GitHub!
 
 Testing a web edit.
